@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "open-lovable": {
+      "command": "node",
+      "args": ["mcp/server.js"],
+      "env": { "OPEN_LOVABLE_URL": "http://localhost:3100" }
+    }
+  }
+}
